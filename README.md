@@ -1,7 +1,5 @@
 # assignment2-nelavelli
 
-# assignment2-nelavelli
-
 # Chandu Nelavelli
 
 ##### The Cleveland Museum of Art
