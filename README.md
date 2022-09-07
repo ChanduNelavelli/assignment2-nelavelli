@@ -19,3 +19,14 @@ Cleveland Hopkins International Airport is one of the nearest airport to the mus
 3. Continue on OH-10. Drive to East Blvd
 4. The Cleveland Museum of Art
 
+### Other locations near to the Museum
+
+* Rock & Roll Hall of Fame.
+* Cleveland Museum of Art.
+* West Side Market.
+* A Christmas Story House.
+* Cleveland Metroparks Zoo.
+* Progressive Field.
+* Lake View Cemetery.
+
+
