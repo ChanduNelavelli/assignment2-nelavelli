@@ -30,3 +30,14 @@ Cleveland Hopkins International Airport is one of the nearest airport to the mus
 * Lake View Cemetery.
 
 **[Link to AboutMe](AboutMe.md)**
+
+----
+# Cities I recommend someone to visit
+I love India and found these cities fascinating.
+---
+| Name of the cities | Important Location | Time Spent|
+--- | --- | --- |
+| Hyderabad | Zoo Park | 4 hours |
+| Mumbai | Taj hotel | 3hours |
+|Vijayawada | Durgamma Temple | 7hours |
+| Araku | Burra caves | 2hours | 
