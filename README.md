@@ -40,4 +40,12 @@ I love India and found these cities fascinating.
 | Hyderabad | Zoo Park | 4 hours |
 | Mumbai | Taj hotel | 3hours |
 |Vijayawada | Durgamma Temple | 7hours |
-| Araku | Burra caves | 2hours | 
+| Araku | Burra caves | 2hours |
+
+---
+# Pithy Quotes 
+> Happiness can be found in the even darkest of times,if only one remembers to turn  on the light.
+>> _J.K Rowling_
+
+> Helping hands are better than praising lips
+>> _Mother Teresa_
