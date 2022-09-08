@@ -27,6 +27,36 @@ Cleveland Hopkins International Airport is one of the nearest airport to the mus
 * A Christmas Story House.
 * Cleveland Metroparks Zoo.
 * Progressive Field.
-* Lake View Cemetery.
+
 
 **[Link to AboutMe](AboutMe.md)**
+----
+# Cities I recommend someone to visit
+I love India and found these cities fascinating.
+---
+| Name of the cities | Important Location | Time Spent|
+--- | --- | --- |
+| Hyderabad | Zoo Park | 4 hours |
+| Mumbai | Taj hotel | 3hours |
+|Vijayawada | Durgamma Temple | 7hours |
+| Araku | Burra caves | 2hours |
+
+---
+# Pithy Quotes 
+> Happiness can be found in the even darkest of times,if only one remembers to turn  on the light.
+>> _J.K Rowling_
+
+> Helping hands are better than praising lips
+>> _Mother Teresa_
+
+---
+# Code Fencing
+> HTML - Mailto Links
+>> https://stackoverflow.com/questions/4782068/can-i-set-subject-content-of-email-using-mailto
+``` html
+<a href="mailto:someone@yoursite.com?subject=Mail from Our Site">Email Us</a>
+
+<a href="mailto:someone@yoursite.com?cc=someoneelse@theirsite.com, another@thatsite.com, me@mysite.com&bcc=lastperson@theirsite.com&subject=Big%20News">Email Us</a>
+```
+
+**[link to above snippet](https://css-tricks.com/snippets/html/mailto-links/)**
