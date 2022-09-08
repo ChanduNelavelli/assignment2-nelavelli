@@ -49,3 +49,14 @@ I love India and found these cities fascinating.
 
 > Helping hands are better than praising lips
 >> _Mother Teresa_
+
+---
+> HTML - Mailto Links
+>> https://stackoverflow.com/questions/4782068/can-i-set-subject-content-of-email-using-mailto
+``` html
+<a href="mailto:someone@yoursite.com?subject=Mail from Our Site">Email Us</a>
+
+<a href="mailto:someone@yoursite.com?cc=someoneelse@theirsite.com, another@thatsite.com, me@mysite.com&bcc=lastperson@theirsite.com&subject=Big%20News">Email Us</a>
+```
+
+**[link to above snippet](https://css-tricks.com/snippets/html/mailto-links/)**
